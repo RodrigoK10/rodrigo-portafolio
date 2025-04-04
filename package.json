@@ -1,0 +1,17 @@
+{
+  "name": "practicafront",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "echo 'No lint setup yet' && exit 0",
+    "test": "echo 'No tests setup yet' && exit 0"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
