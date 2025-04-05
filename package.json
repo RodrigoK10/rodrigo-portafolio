@@ -1,7 +1,7 @@
 {
   "name": "practicafront",
   "version": "1.0.0",
-  "homepage": "https://github.com/RodrigoK10/rodrigo-portafolio.git",
+  "homepage": "https://rodrigok10.github.io/rodrigo-portafolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -15,6 +15,7 @@
     "gh-pages": "^6.3.0"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
     "vite": "^4.0.0"
   }
 }
